@@ -1,2 +1,1 @@
-# tindog
-test-angela-yu-css
+TinDog Starting Files
